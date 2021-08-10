@@ -46,8 +46,8 @@ class StackPilhaState extends State<StackPilha> {
               ),
               margin: EdgeInsets.all(15),
               padding: EdgeInsets.all(15),
-              width: 300,  // Largura
-              height: 400, // Altura
+              width: 250,  // Largura
+              height: 350, // Altura
               color: Colors.redAccent  // Cor
             ),
 
@@ -61,8 +61,8 @@ class StackPilhaState extends State<StackPilha> {
               ),
               margin: EdgeInsets.all(20),
               padding: EdgeInsets.all(20),
-              width: 250,  // Largura
-              height: 350, // Altura
+              width: 150,  // Largura
+              height: 250, // Altura
               color: Colors.green  // Cor
             )
           ]
